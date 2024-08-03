@@ -6,13 +6,27 @@ So the options look like:
 <ul>
 <li> show tabs dynamically </li>
     <ul>
-    <li> preload concurrently, then fix order afterwards ([video](dynamic-tab-preload-concurrently.mov)) </li>
-    <li> load one at a time, in order ([video](dynamic-tab-in-order.mov)) </li>
+    <li> preload concurrently, then fix order afterwards </li>
+        <ul>
+            <li>
+                https://github.com/RedMage1993/SwiftConcurrencyDemo/raw/main/dynamic-tab-preload-concurrently.mov
+            </li>
+        </ul>
+    <li> load one at a time, in order </li>
+        <ul>
+            <li>https://github.com/RedMage1993/SwiftConcurrencyDemo/raw/main/dynamic-tab-in-order.mov</li>
+        </ul>
     </ul>
 <li> show tabs initially </li>
     <ul>
-    <li> preload concurrently, so content is there when selecting tab ([video](initial-tab-preload-concurrently.mov)) </li>
-    <li> load once tab is selected, or onAppear ([video](initial-tab-load-onappear.mov)) </li>
+    <li> preload concurrently, so content is there when selecting tab </li>
+        <ul>
+            <li>https://github.com/RedMage1993/SwiftConcurrencyDemo/raw/main/initial-tab-preload-concurrently.mov</li>
+        </ul>
+    <li> load once tab is selected, or onAppear </li>
+        <ul>
+            <li>https://github.com/RedMage1993/SwiftConcurrencyDemo/raw/main/initial-tab-load-onappear.mov</li>
+        </ul>
     </ul>
 </ul>
 
